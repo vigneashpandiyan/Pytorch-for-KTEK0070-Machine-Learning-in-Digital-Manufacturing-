@@ -13,6 +13,7 @@ Welcome to the repository for the **Machine Learning in Digital Manufacturing** 
 
 ---
 
+
 ## 🌟 Introduction
 
 This repository contains a series of Jupyter Notebooks for the practical labs and scripts supporting the coursework. The goal of these hands-on sessions is to bridge the gap between theoretical knowledge and practical implementation, equipping you with the skills to apply ML and DL techniques in the context of Digital Manufacturing.
